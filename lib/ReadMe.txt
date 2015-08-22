@@ -1,0 +1,1 @@
+This folder contains the external/vendor/thirdparty libraries
