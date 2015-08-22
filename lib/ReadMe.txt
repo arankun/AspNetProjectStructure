@@ -1,1 +1,1 @@
-This folder contains the external/vendor/thirdparty libraries
+This folder contains the external/vendor/thirdparty libraries.
