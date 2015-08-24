@@ -16,3 +16,10 @@ install-package log4net App.Web.Common
 install-package nhibernate App.Web.Common
 install-package ninject App.Web.Common
 install-package ninject.web.common App.Web.Common
+
+
+#alternate to nhibernate:
+
+Install-Package EntityFramework -Version 6.1.2 App.Data.SqlServer
+
+Install-Package EntityFramework -Version 6.1.2 App.Web.Api
